@@ -34,6 +34,4 @@ To run the Debouncing Project locally, follow these steps:
 
 The Debouncing Project demonstrates the use of the debouncing technique in JavaScript to optimize API requests based on user input. By debouncing the function that handles the API call, we ensure that the request is triggered only when the user has paused typing for a specific duration. This leads to better performance and a smoother user experience.
 
----
-
-Save the above content in a file named `README.md`, and you'll have the README.md file for your Debouncing Project in Markdown format. Remember to replace the placeholder data, such as `YOUR_API_ENDPOINT`, with the actual values used in your project.
+ 
